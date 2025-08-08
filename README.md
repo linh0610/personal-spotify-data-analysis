@@ -13,6 +13,6 @@ It includes interactive visuals to explore listening patterns, top artists, and 
 - **Top 10 Artists by Hours Played:** Highlights the artists I’ve listened to the most.
 - **Top 10 Songs by Hours Played:** Shows which tracks dominate my playlists.
 - **Listening Habits by Day of Week:** Reveals which days I listen to music the most.
-- **Monthly Listening Trends:** Displays average hours played per month.
+- **Monthly Listening Trends:** Displays total hours played per month.
 
-[![View Dashboard](Screenshot%202025-08-08%20113426.png)]
+![View Dashboard](Screenshot%202025-08-08%20113426.png)
